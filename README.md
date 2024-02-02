@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @danipaez
 - 👀 I’m interested in Solution Architecture
-- 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on Java or Azure projects
-- 📫 Reach me at daniel.paez@tietoevry.com
+
